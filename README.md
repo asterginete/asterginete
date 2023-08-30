@@ -5,11 +5,11 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asterginete" alt="asterginete" /></a> </p>-->
 
-- 🔭 I’m currently working on **SaaS project**
+- 🔭 I’m currently working on **Two SaaS projects**
 
-- 🌱 I’m currently learning **VueJS, Svelte, SolidJS, Golang**
+- 🌱 I’m currently learning **Golang, AWS**
 
-- 💬 Ask me about **ReactJS, Python**
+- 💬 Ask me about **ReactJS, React Native, and Python**
 
 - 📫 How to reach me **asterginete@yahoo.com**
 
