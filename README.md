@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **two SaaS projects**
 
-- 🌱 I’m currently learning **PyTorch, Scikit-Learn, Golang, AWS**
+- 🌱 I’m currently learning **VueJS, AWS**
 
 - 💬 Ask me about **ReactJS, React Native, and Python**
 
