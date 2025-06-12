@@ -5,14 +5,6 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asterginete" alt="asterginete" /></a> </p>-->
 
-- 🔭 I’m currently working on **two SaaS projects**
-
-- 🌱 I’m currently learning **VueJS, AWS**
-
-- 💬 Ask me about **ReactJS, React Native, and Python**
-
-- 📫 How to reach me **asterginete@yahoo.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asterginete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asterginete" height="30" width="40" /></a>
